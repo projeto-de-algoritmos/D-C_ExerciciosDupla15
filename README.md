@@ -34,15 +34,15 @@ Código: [ACESSO](/codigos/912.c)<br>
 
 LeetCode 23 - Merge k Sorted Lists<br>
 
-![image](/assets/.png)
+![image](/assets/23.png)
 
 LeetCode 347 - Top K Frequent Elements<br>
 
-![image](/assets/.png)
+![image](/assets/347.png)
 
 LeetCode 912 - Sort an Array<br>
 
-![image](/assets/.png)
+![image](/assets/912.png)
 ## Instalação 
 **Linguagem**: C e C++<br>
 
