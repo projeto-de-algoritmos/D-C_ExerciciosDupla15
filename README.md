@@ -32,15 +32,15 @@ Você deve resolver o problema sem usar nenhuma função embutida, com complexid
 Código: [ACESSO](/codigos/912.c)<br>
 ## Screenshots
 
-* Leetcode 
+LeetCode 23 - Merge k Sorted Lists<br>
 
 ![image](/assets/.png)
 
-* Leetcode 
+LeetCode 347 - Top K Frequent Elements<br>
 
 ![image](/assets/.png)
 
-* Leetcode 
+LeetCode 912 - Sort an Array<br>
 
 ![image](/assets/.png)
 ## Instalação 
