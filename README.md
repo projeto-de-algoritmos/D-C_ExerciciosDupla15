@@ -58,9 +58,9 @@ Agora, dê o comando "Run".
 
 ## Outros 
 
-O vídeo no Youtube pode ser acessado [aqui](). 
+O vídeo no Youtube pode ser acessado [aqui](https://youtu.be/fYg76srQ3u4). 
 
-O arquivo do vídeo pode ser acessado [aqui]().
+O arquivo do vídeo pode ser acessado [aqui](apresentacao-dividir-conquistar.mp4).
 
 
 
