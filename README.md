@@ -58,9 +58,9 @@ Agora, dê o comando "Run".
 
 ## Outros 
 
-O vídeo no Youtube pode ser acessado [aqui](https://youtu.be/fYg76srQ3u4). 
+Arquivo do vídeo: [ACESSO](apresentacao-dividir-conquistar.mp4).
 
-O arquivo do vídeo pode ser acessado [aqui](apresentacao-dividir-conquistar.mp4).
+Vídeo no Youtube: [ACESSO](https://youtu.be/fYg76srQ3u4).
 
 
 
