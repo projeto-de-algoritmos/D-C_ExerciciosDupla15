@@ -10,21 +10,21 @@
 | 19/0116498  |  Rodrigo Braz Ferreira Gontijo |
 
 ## Sobre 
-O projeto consiste na resolução de 3 exercícos do site LeetCode.
+O projeto consiste na resolução de 3 exercícios do site LeetCode.
 
-### LeetCode 23 - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+### [DIFÍCIL] LeetCode 23 - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 Dado um array de k listas encadeadas chamadas "lists", cada lista encadeada está ordenada em ordem crescente.
 
 Junte todas as listas encadeadas em uma única lista encadeada ordenada e retorne-a.<br>
 
 Código: [ACESSO](/codigos/23.cpp)<br>
 
-### LeetCode 347 - [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+### [MÉDIO] LeetCode 347 - [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 Dado um array de números inteiros chamado "nums" e um número inteiro "k", retorne os k elementos mais frequentes. Você pode retornar a resposta em qualquer ordem.<br>
 
 Código: [ACESSO](/codigos/347.c)<br>
 
-### LeetCode 912 - [Sort an Array](https://leetcode.com/problems/sort-an-array/)
+### [MÉDIO] LeetCode 912 - [Sort an Array](https://leetcode.com/problems/sort-an-array/)
 Dado um array de números inteiros chamado "nums", ordene o array em ordem crescente e retorne-o. 
 
 Você deve resolver o problema sem usar nenhuma função embutida, com complexidade de tempo O(nlog(n)), e com a menor complexidade de espaço possível.<br>
